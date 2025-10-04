@@ -1,4 +1,6 @@
-Player Profile
-Name: Faez
+Name: Fernando Faez
 Position: CDM
 Jersey: 21
+Nationality: Malaysia
+
+
