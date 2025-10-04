@@ -1,1 +1,4 @@
-MIDFIELDER: Faez
+Player Profile
+Name: Faez
+Position: CDM
+Jersey: 21
