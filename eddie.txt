@@ -1,4 +1,0 @@
-Name: Eddie
-Position: LW
-Jersey: 11
-Nationality: Malaysia

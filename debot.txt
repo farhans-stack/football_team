@@ -1,4 +1,0 @@
-Name: Debot
-Position: CAM
-Jersey: 8
-Nationality: Malaysia

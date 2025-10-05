@@ -1,4 +1,0 @@
-Name: Memer
-Position: CM
-Jersey: 18
-Nationality: Malaysia

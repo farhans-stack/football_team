@@ -1,4 +1,0 @@
-Name: Kayroll
-Position: CDM
-Jersey: 6
-Nationality: Malaysia
