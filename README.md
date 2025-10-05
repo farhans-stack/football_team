@@ -1,11 +1,14 @@
-﻿##  ORANG LAMO FC (OLFC)
+﻿# ⚽ Football Club Project
 
-Welcome to **Orang Lamo FC!**
+Welcome to my **Git fun exercise** — building a football club project!  
+This project helps me practice basic Git commands and workflow.
 
-| **Founded**      | 2022 |
-|-------------------|------|
-| **Home Stadium**  | Bukit Kuchai |
-| **Head Coach**    | Che Awang |
-| **Captain**       | Fernando Faez |
+## 🏆 What I’ll Practice
+- 📝 Adding files  
+- 💾 Committing changes  
+- 🌿 Creating branches  
+- 🔀 Merging changes  
+- 🚀 Pushing to GitHub  
+- ⬇️ Pulling from Git  
 
 ---
